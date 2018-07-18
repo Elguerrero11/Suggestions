@@ -1,0 +1,2 @@
+# suggestions
+Suggestions for CraftingStore.
