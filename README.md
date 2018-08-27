@@ -8,6 +8,8 @@ This repository is used to keep track of the feature request and bug reports on 
 3) Enter your suggestion or bug details.
 4) Submit the issue.
 
+We will only reply to your suggestion when we are implementing it. If we do not reply to your issue, you know we are working on it. 
+
 **Security Vulnerabilities**
 
 If you discover a security vulnerability within CraftingStore, please send us an E-mail instead at tim[at]craftingstore.net
